@@ -243,7 +243,7 @@ def main():
         'obstacle_name': 'obs1',
         'object_type': 'Car',
         'gps_l': 2.032,
-        'gps_w': 1.4478,
+        'gps_w': 0.7239,
         'gps_h': 1.6256,
         'l': 4.2418,
         'w': 1.4478,
